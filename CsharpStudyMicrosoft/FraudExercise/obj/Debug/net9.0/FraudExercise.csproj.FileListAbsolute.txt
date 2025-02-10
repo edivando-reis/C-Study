@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\bin\Debug\net9.0\FraudExercise.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\bin\Debug\net9.0\FraudExercise.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\bin\Debug\net9.0\FraudExercise.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\bin\Debug\net9.0\FraudExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\bin\Debug\net9.0\FraudExercise.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\refint\FraudExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\FraudExercise.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\FraudExercise\obj\Debug\net9.0\ref\FraudExercise.dll
