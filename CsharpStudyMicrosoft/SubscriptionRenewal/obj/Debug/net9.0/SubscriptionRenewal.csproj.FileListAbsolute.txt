@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\bin\Debug\net9.0\SubscriptionRenewal.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\refint\SubscriptionRenewal.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\SubscriptionRenewal.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\SubscriptionRenewal\obj\Debug\net9.0\ref\SubscriptionRenewal.dll
