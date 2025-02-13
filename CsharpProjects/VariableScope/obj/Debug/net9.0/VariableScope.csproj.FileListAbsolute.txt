@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\bin\Debug\net9.0\VariableScope.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\bin\Debug\net9.0\VariableScope.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\bin\Debug\net9.0\VariableScope.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\bin\Debug\net9.0\VariableScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\bin\Debug\net9.0\VariableScope.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\refint\VariableScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\VariableScope.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\VariableScope\obj\Debug\net9.0\ref\VariableScope.dll

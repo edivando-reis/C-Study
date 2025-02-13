@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\bin\Debug\net9.0\CommentsNomenclature.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\bin\Debug\net9.0\CommentsNomenclature.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\bin\Debug\net9.0\CommentsNomenclature.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\bin\Debug\net9.0\CommentsNomenclature.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\bin\Debug\net9.0\CommentsNomenclature.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\refint\CommentsNomenclature.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\CommentsNomenclature.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\CommentsNomenclature\obj\Debug\net9.0\ref\CommentsNomenclature.dll

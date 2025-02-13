@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\bin\Debug\net9.0\Switch.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\bin\Debug\net9.0\Switch.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\bin\Debug\net9.0\Switch.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\bin\Debug\net9.0\Switch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\bin\Debug\net9.0\Switch.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\refint\Switch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\Switch.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\Switch\obj\Debug\net9.0\ref\Switch.dll

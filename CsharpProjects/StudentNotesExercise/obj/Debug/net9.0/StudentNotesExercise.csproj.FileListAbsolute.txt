@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\bin\Debug\net9.0\StudentNotesExercise.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\bin\Debug\net9.0\StudentNotesExercise.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\bin\Debug\net9.0\StudentNotesExercise.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\bin\Debug\net9.0\StudentNotesExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\bin\Debug\net9.0\StudentNotesExercise.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\refint\StudentNotesExercise.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\StudentNotesExercise.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\StudentNotesExercise\obj\Debug\net9.0\ref\StudentNotesExercise.dll

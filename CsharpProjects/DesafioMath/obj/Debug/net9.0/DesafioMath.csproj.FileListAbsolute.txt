@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\bin\Debug\net9.0\DesafioMath.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\bin\Debug\net9.0\DesafioMath.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\bin\Debug\net9.0\DesafioMath.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\bin\Debug\net9.0\DesafioMath.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\bin\Debug\net9.0\DesafioMath.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\refint\DesafioMath.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\DesafioMath.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DesafioMath\obj\Debug\net9.0\ref\DesafioMath.dll

@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\bin\Debug\net9.0\ChallengeProject.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\bin\Debug\net9.0\ChallengeProject.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\bin\Debug\net9.0\ChallengeProject.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\bin\Debug\net9.0\ChallengeProject.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\bin\Debug\net9.0\ChallengeProject.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\refint\ChallengeProject.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ChallengeProject.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ChallengeProject\obj\Debug\net9.0\ref\ChallengeProject.dll

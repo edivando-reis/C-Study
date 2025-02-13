@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\bin\Debug\net9.0\ConvertingIfToSwitch.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\bin\Debug\net9.0\ConvertingIfToSwitch.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\bin\Debug\net9.0\ConvertingIfToSwitch.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\bin\Debug\net9.0\ConvertingIfToSwitch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\bin\Debug\net9.0\ConvertingIfToSwitch.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\refint\ConvertingIfToSwitch.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ConvertingIfToSwitch.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConvertingIfToSwitch\obj\Debug\net9.0\ref\ConvertingIfToSwitch.dll

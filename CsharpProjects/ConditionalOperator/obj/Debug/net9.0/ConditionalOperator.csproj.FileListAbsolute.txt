@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\refint\ConditionalOperator.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ConditionalOperator\obj\Debug\net9.0\ref\ConditionalOperator.dll

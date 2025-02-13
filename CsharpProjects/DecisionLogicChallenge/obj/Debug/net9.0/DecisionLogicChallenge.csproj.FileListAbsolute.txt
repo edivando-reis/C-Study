@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\bin\Debug\net9.0\DecisionLogicChallenge.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\refint\DecisionLogicChallenge.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\DecisionLogicChallenge.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\DecisionLogicChallenge\obj\Debug\net9.0\ref\DecisionLogicChallenge.dll

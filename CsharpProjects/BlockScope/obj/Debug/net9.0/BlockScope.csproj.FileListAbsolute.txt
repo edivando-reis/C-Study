@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\bin\Debug\net9.0\BlockScope.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\bin\Debug\net9.0\BlockScope.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\bin\Debug\net9.0\BlockScope.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\bin\Debug\net9.0\BlockScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\bin\Debug\net9.0\BlockScope.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\refint\BlockScope.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\BlockScope.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\BlockScope\obj\Debug\net9.0\ref\BlockScope.dll

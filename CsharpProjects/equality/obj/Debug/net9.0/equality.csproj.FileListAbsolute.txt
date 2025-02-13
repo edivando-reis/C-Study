@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\bin\Debug\net9.0\equality.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\bin\Debug\net9.0\equality.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\bin\Debug\net9.0\equality.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\bin\Debug\net9.0\equality.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\bin\Debug\net9.0\equality.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\refint\equality.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\equality.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\equality\obj\Debug\net9.0\ref\equality.dll
