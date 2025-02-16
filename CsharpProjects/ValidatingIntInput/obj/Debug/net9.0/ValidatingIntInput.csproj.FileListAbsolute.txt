@@ -1,0 +1,14 @@
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.AssemblyInfoInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.AssemblyInfo.cs
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.csproj.CoreCompileInputs.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\bin\Debug\net9.0\ValidatingIntInput.exe
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\bin\Debug\net9.0\ValidatingIntInput.deps.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\bin\Debug\net9.0\ValidatingIntInput.runtimeconfig.json
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\bin\Debug\net9.0\ValidatingIntInput.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\bin\Debug\net9.0\ValidatingIntInput.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\refint\ValidatingIntInput.dll
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.pdb
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ValidatingIntInput.genruntimeconfig.cache
+D:\Developer\estudosfaculdade\C#\CsharpProjects\ValidatingIntInput\obj\Debug\net9.0\ref\ValidatingIntInput.dll
